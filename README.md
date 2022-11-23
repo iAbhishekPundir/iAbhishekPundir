@@ -8,7 +8,7 @@ About Me👦
  
  🎓 I graduated in 2021, B.Tech, CSE.
  
- 🛠 I'm currently working in MERN stack.
+ 🛠 I'm currently learning MERN stack.
  
  😀Pronouns: He/him
  
