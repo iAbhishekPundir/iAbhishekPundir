@@ -4,7 +4,7 @@ About Me👦
  
  😎 I'm Abhishek, working as a Software Engineer.
  
- 🎓 I graduated in 2021, B.Tech, IT.
+ 🎓 Bachelors of Technology
  
  🛠 I'm currently learning MERN stack.
  
