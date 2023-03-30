@@ -6,7 +6,7 @@ About Me👦
  
  🎓 Bachelors of Technology
  
- 🛠 I'm currently learning MERN stack.
+ 🛠  MERN stack.
  
  😀Pronouns: He/him
  
