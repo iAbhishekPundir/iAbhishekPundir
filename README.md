@@ -2,7 +2,7 @@
 About Me👦
 ---
  
- 😎 I'm Abhishek, working as a Software Engineer.
+  I'm Abhishek, working as a Software Engineer.
  
  🎓 Bachelors of Technology
  
